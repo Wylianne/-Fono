@@ -1,6 +1,6 @@
 <?php
 return [
-    'name'=>'NOME DO SISTEMA',
+    'name'=>'+Fono',
     'sourceLanguage'=>'pt-BR',
     'language'=>'pt-BR',
     'vendorPath' => dirname(dirname(__DIR__)) . '/vendor',

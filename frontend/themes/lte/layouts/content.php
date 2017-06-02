@@ -2,6 +2,7 @@
 use yii\widgets\Breadcrumbs;
 use dmstr\widgets\Alert;
 
+
 ?>
 <div class="content-wrapper">
     <section class="content-header">
@@ -39,9 +40,8 @@ use dmstr\widgets\Alert;
     <div class="pull-right hidden-xs">
         <b>Version</b> 2.0
     </div>
-    <strong>Prefeitura Municipal de Caruaru  -   
-        Secretaria de Saúde -   
-Departamento de Tecnologia da Informação</strong>
+    <strong>+Fono  -   
+        Mais para você </strong>
 </footer>
 
 <!-- Control Sidebar -->

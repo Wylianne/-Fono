@@ -23,7 +23,8 @@
         "dmstr/yii2-adminlte-asset": "2.*",
         "dektrium/yii2-user": "0.9.*@dev",
         "johnitvn/yii2-rbac-plus": "*",
-        "johnitvn/yii2-ajaxcrud": "*"
+        "johnitvn/yii2-ajaxcrud": "*",
+        "kartik-v/yii2-social": "@dev"
     },
     "require-dev": {
         "codeception/codeception": "*",
